@@ -14,7 +14,7 @@ const config = {
   aboutPhoto: '/assets/headshot.webp',
   heroTofuEndpoint: 'https://public.herotofu.com/v1/8a20de80-e812-11ef-91ab-497918027bf8',
   socialLinks: [
-    { name: 'GitHub', icon: Github, url: 'https://github.com/spencerlepine.co' },
+    { name: 'GitHub', icon: Github, url: 'https://github.com/spencerlepine' },
     { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com/in/spencerlepine' },
     { name: 'Email', icon: Mail, url: 'mailto:spencer.sayhello@gmail.com' },
   ],
